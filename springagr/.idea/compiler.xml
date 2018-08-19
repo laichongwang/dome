@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="agr-common" />
+        <module name="agrapi" />
+        <module name="agrapp" />
+        <module name="agreurekaClient" />
+        <module name="agreurekaServer" />
+        <module name="zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="agrcommon" target="1.6" />
+      <module name="agreureka" target="1.6" />
+      <module name="api" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

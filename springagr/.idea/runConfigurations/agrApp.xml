@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="agrApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" show_console_on_std_err="true" show_console_on_std_out="true">
+    <output_file path="$PROJECT_DIR$/../logs/agr" is_save="true" />
+    <module name="agrapp" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.cn.agr.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.cn.agr.ApplicationApp" />
+    <option name="ACTIVE_PROFILES" value="agrApp" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+    <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+    <method />
+  </configuration>
+</component>

@@ -1,8 +1,0 @@
-server:
-  port: 2012
-
-
-print:
-  user-name: lcw
-  pswd: 122334
-  post: 8080

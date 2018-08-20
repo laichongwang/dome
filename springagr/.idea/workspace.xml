@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a516ac2c-0e38-4b6b-8337-eed41aa82dae" name="Default" comment="添加图片去重的maven引入">
-      <change afterPath="$PROJECT_DIR$/agr-app/src/main/java/com/cn/agr/util/test.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/agrApi.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/agrApp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-api/target/classes/com/cn/agr/ApplicationApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-app/src/main/java/com/cn/agr/util/AnnotationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-app/target/classes/com/cn/agr/ApplicationApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-app/target/classes/com/cn/agr/config/Config$CommonPrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-app/target/classes/com/cn/agr/config/Config.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-app/target/classes/com/cn/agr/config/SwaggerConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-app/target/classes/com/cn/agr/config/WebMvcConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-app/target/classes/com/cn/agr/controller/ApplyController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-app/target/classes/com/cn/agr/services/ApplyService$ThreadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-app/target/classes/com/cn/agr/services/ApplyService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-app/target/classes/com/cn/agr/util/AnnotationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-common/target/classes/com/cn/agr/common/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-common/target/classes/com/cn/agr/common/MongodbRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-common/target/classes/com/cn/agr/common/MyBeanDefinitionRegistryPostProcessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-common/target/classes/com/cn/agr/common/Thread/ThreadPoolUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-common/target/classes/com/cn/agr/common/db/pgSqlDb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-common/target/classes/com/cn/agr/common/utils/RepeatUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-common/target/test-classes/Heap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-common/target/test-classes/TheloadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-common/target/test-classes/TheloadUtls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-common/target/test-classes/ThreadPoolUtil$ThreadRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-common/target/test-classes/ThreadPoolUtil$ThreadRun2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-common/target/test-classes/ThreadPoolUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-eurekaClient/target/classes/com/cn/agr/ApplicationEurekaClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-eurekaClient/target/classes/com/cn/agr/controller/EurekaClientController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/agr-eurekaServer/target/classes/com/cn/agr/ApplicationEurekaService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuul/zuul.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="a516ac2c-0e38-4b6b-8337-eed41aa82dae" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/agr-api/target/" />
     <ignored path="$PROJECT_DIR$/agr-app/target/" />
     <ignored path="$PROJECT_DIR$/agr-common/target/" />
@@ -81,20 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/agr-app/src/main/java/com/cn/agr/util/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/.gitignore">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="110">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -117,10 +80,11 @@
         <option value="$PROJECT_DIR$/agr-app/src/main/java/com/cn/agr/controller/ApplyController.java" />
         <option value="$PROJECT_DIR$/agr-common/pom.xml" />
         <option value="$PROJECT_DIR$/agr-common/src/main/java/com/cn/agr/common/utils/RepeatUtil.java" />
-        <option value="$PROJECT_DIR$/agr-app/src/main/java/com/cn/agr/util/Test.java" />
         <option value="$PROJECT_DIR$/src/main/resources/java.gitignore" />
         <option value="$PROJECT_DIR$/agr-app/src/main/java/com/cn/agr/util/test.log" />
         <option value="$PROJECT_DIR$/src/main/resources/.gitignore" />
+        <option value="$PROJECT_DIR$/agr-app/src/main/java/com/cn/agr/util/ss.log" />
+        <option value="$PROJECT_DIR$/agr-app/src/main/java/com/cn/agr/util/Test.java" />
       </list>
     </option>
   </component>
@@ -196,6 +160,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.41920903" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea\springagr" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -276,7 +245,7 @@
       <workItem from="1534650048137" duration="846000" />
       <workItem from="1534653260265" duration="3366000" />
       <workItem from="1534657258775" duration="3631000" />
-      <workItem from="1534765554063" duration="4988000" />
+      <workItem from="1534765554063" duration="5547000" />
     </task>
     <task id="LOCAL-00001" summary="添加一个测试类">
       <created>1534653399116</created>
@@ -299,11 +268,25 @@
       <option name="project" value="LOCAL" />
       <updated>1534668806082</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加git不必要的文件提交过滤--赖崇旺">
+      <created>1534773684895</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534773684896</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加git不必要的文件提交过滤2--赖崇旺">
+      <created>1534774162246</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1534774162246</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12831000" />
+    <option name="totallyTimeSpent" value="13390000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -337,7 +320,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3292683" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.3292683" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993573" visible="true" weight="0.21680216" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993573" visible="true" weight="0.5392954" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25642672" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
@@ -361,7 +344,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加一个测试类" />
     <MESSAGE value="添加图片去重的maven引入" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加图片去重的maven引入" />
+    <MESSAGE value="添加git不必要的文件提交过滤--赖崇旺" />
+    <MESSAGE value="添加git不必要的文件提交过滤2--赖崇旺" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加git不必要的文件提交过滤2--赖崇旺" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/agr-app/src/main/java/com/cn/agr/controller/ApplyController.java">
@@ -450,13 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/agr-app/src/main/java/com/cn/agr/util/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/agr-app/src/main/java/com/cn/agr/util/test.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -464,10 +442,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agr-app/src/main/java/com/cn/agr/util/ss.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agr-app/src/main/java/com/cn/agr/util/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>

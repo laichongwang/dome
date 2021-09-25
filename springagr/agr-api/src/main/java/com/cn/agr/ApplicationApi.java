@@ -12,5 +12,4 @@ public class ApplicationApi {
         SpringApplication.run(ApplicationApi.class, agr);
         System.out.println("run success:" + "agrApi");
     }
-
 }
